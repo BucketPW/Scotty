@@ -1,0 +1,11 @@
+c:\users\mitchell\documents\visual studio 2013\Projects\Scotty\Scotty\bin\Debug\Scotty.exe.config
+C:\Users\Mitchell\documents\visual studio 2013\Projects\Scotty\Scotty\bin\Debug\Scotty.exe
+C:\Users\Mitchell\documents\visual studio 2013\Projects\Scotty\Scotty\bin\Debug\Scotty.pdb
+C:\Users\Mitchell\documents\visual studio 2013\Projects\Scotty\Scotty\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Mitchell\documents\visual studio 2013\Projects\Scotty\Scotty\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mitchell\documents\visual studio 2013\Projects\Scotty\Scotty\obj\Debug\Scotty.csprojResolveAssemblyReference.cache
+C:\Users\Mitchell\documents\visual studio 2013\Projects\Scotty\Scotty\obj\Debug\Scotty.exe
+C:\Users\Mitchell\documents\visual studio 2013\Projects\Scotty\Scotty\obj\Debug\Scotty.pdb
+C:\Users\Mitchell\documents\visual studio 2013\Projects\Scotty\Scotty\obj\Debug\Scotty.SnippingTool.resources
+C:\Users\Mitchell\documents\visual studio 2013\Projects\Scotty\Scotty\obj\Debug\Scotty.csproj.GenerateResource.Cache
+C:\Users\Mitchell\documents\visual studio 2013\Projects\Scotty\Scotty\obj\Debug\Scotty.Properties.Resources.resources
