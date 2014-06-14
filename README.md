@@ -1,5 +1,8 @@
 Scotty
 ======
-Usage:<br/>
-Press printscreen to make a screenshot and upload to pomf.se.<br/>
-Press ctrl + printscreen to select an area to screenshot and upload to pomf.se.
+<b>Usage:</b><br/>
+<ul>
+  <li>PrtSc for regular screenshots.</li>
+  <li>Ctrl + PrtSc for a area selection screenshot.</li>
+  <li>Url to the screenshot will be in your clipboard after, just press Ctrl + V to paste.</li>
+</ul>
