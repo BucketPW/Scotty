@@ -1,5 +1,8 @@
 Scotty
 ======
+Screenshot utility for pomf.se.
+Rewrite from an earlier version I made while I was still attending Rijn IJssel, similar in function as puu.sh but very minimal RAM usage. 
+
 <b>Usage:</b><br/>
 <ul>
   <li>PrtSc for regular screenshots.</li>
